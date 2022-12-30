@@ -1,0 +1,48 @@
+nav {
+  background: gray;
+  padding: 25px;
+}
+li {
+  float: right;
+}
+a {
+  margin: 5px 20px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 3vw;
+  margin-top: 25px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+#bio {
+  font-size: 1.5vw;
+  margin-top: 25px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+#project {
+  font-size: 1.5vw;
+  margin-top: 25px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+
+img {
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
+#bio-footer {
+  margin-top: 300px;
+  text-align: center;
+}
+
+#project-footer {
+  text-align: center;
+}
